@@ -31,7 +31,7 @@
 
 #for i in range(number):
 #    list.append(randint(0, 9))
-#
+
 #for i in range(len(list)):
 #    while i < len(list)/2 and number > len(list)/2:
 #        number = number - 1
